@@ -66,6 +66,10 @@ _instalar o cockpit - ferramenta para gerenciar o servidor, por meio de um ambie
 sudo apt install cockpit
 ```
 
-<img src="comando3.png">
+<img src="yescockpit.png">
 
+Confirme a instalação digitando y
 
+### Instalação concluído
+
+<img src="cockpitfinal.png">
